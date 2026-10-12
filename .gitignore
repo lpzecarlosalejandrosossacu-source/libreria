@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Production & Build outputs
+dist/
+**/dist/
+.angular/
+**/.angular/
+
+# IDE and Editor files
+.vscode/
+**/.vscode/
+.idea/
+**/.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and OS cache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
